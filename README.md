@@ -4,7 +4,7 @@ This is a Rasa chatbot example demonstrating how to build an AI assistant for an
 
 Here is an example of a conversation you can have with this bot:
 
-![Screenshot](./screenshots/demo_ss.png?raw=true)
+
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
